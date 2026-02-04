@@ -27,5 +27,5 @@ Help us build the ultimate toolkit! Here is what we are working on:
 ### Installation
 1. Clone the repo:
    ```bash
-   git clone [https://github.com/your-username/ScriptSavant.git](https://github.com/your-username/ScriptSavant.git)
+   git clone [https://github.com/mobeen-pmo/ScriptSavant.git](https://github.com/mobeen-pmo/ScriptSavant.git)
    cd ScriptSavant
