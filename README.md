@@ -29,3 +29,7 @@ Help us build the ultimate toolkit! Here is what we are working on:
    ```bash
    git clone [https://github.com/mobeen-pmo/ScriptSavant.git](https://github.com/mobeen-pmo/ScriptSavant.git)
    cd ScriptSavant
+## 🌐 Run the Web Dashboard 
+Instead of using the command line, you can launch our interactive dashboard:
+```bash
+streamlit run apps/toolkit.py
