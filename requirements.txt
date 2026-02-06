@@ -4,3 +4,4 @@ colorama        # For making your Windows fixes look pretty in the terminal
 tqdm            # To show a progress bar for downloads/file moves
 Pillow          # For image-based scripts (Metadata stripping)
 streamlit
+ffmpeg
