@@ -10,10 +10,10 @@ st.set_page_config(page_title="ScriptSavant", page_icon="🧙‍♂️", layout=
 # --- Custom Styling & Branding ---
 st.sidebar.title("🧙‍♂️ ScriptSavant")
 st.sidebar.markdown("---")
-st.sidebar.info("Developed by **Software Bazaar**")
+st.sidebar.info("Developed by **https://github.com/mobeen-pmo/ScriptSavant**")
 st.sidebar.markdown("Explore high-performance automation scripts and tools.")
 
-st.title("🚀 ScriptSavant Multi-Tool SaaS")
+st.title("🚀 ScriptSavant Multi-Tool ")
 st.markdown("Automate your digital workflow with ease.")
 
 # --- Tabs for Different Tools ---
