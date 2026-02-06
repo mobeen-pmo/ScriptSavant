@@ -6,11 +6,16 @@ import io
 
 # --- Page Configuration ---
 st.set_page_config(page_title="ScriptSavant", page_icon="🧙‍♂️", layout="wide")
+# --- Configuration ---
+GITHUB_USERNAME = "mobeen-pmo"  # Change this to your exact username
+REPO_URL = f"https://github.com/mobeen-pmo/ScriptSavant"
 
 # --- Custom Styling & Branding ---
 st.sidebar.title("🧙‍♂️ ScriptSavant")
 st.sidebar.markdown("---")
-st.sidebar.info("Developed by **https://github.com/mobeen-pmo/ScriptSavant**")
+# This line replaces "Developed by Software Bazaar" with your GitHub username
+st.sidebar.info(f"Developed by **{GITHUB_USERNAME}**")
+st.sidebar.markdown(f"[⭐ Star on GitHub]({REPO_URL})")
 st.sidebar.markdown("Explore high-performance automation scripts and tools.")
 
 st.title("🚀 ScriptSavant Multi-Tool ")
