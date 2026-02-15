@@ -3,7 +3,7 @@ requests        # For web-based tasks and APIs
 colorama        # For making your Windows fixes look pretty in the terminal
 tqdm            # To show a progress bar for downloads/file moves
 Pillow          # For image-based scripts (Metadata stripping)
-streamlit
+streamlit       # For UI Web application
 ffmpeg
 pdf2docx       # PDF to Word
 docx2pdf       # Word to PDF (Requires MS Word installed on Windows/Mac)
