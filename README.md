@@ -10,24 +10,20 @@ ScriptSavant is designed to be your digital "Swiss Army Knife." Whether you need
 
 ## 📂 Project Roadmap
 Help us build the ultimate toolkit! Here is what we are working on:
-
 - [x] **Universal Media Downloader:** YouTube, Insta, FB support (MP3/MP4).
 - [ ] **Windows Quick-Fixes:** One-click registry cleaners and bloatware removers.
 - [ ] **Document Master:** Bulk PDF merging and metadata stripping for images.
 - [ ] **Automation Hub:** Price drop trackers and automated meeting notes.
 
 ## 🛠️ Getting Started
-
 ### Prerequisites
 * **Python 3.10+**.
 * **FFmpeg:** Required for the MP3 conversion feature in our downloader.
-
 ### Installation
 1. Clone the repo:
    ```bash
    git clone [https://github.com/mobeen-pmo/ScriptSavant.git](https://github.com/mobeen-pmo/ScriptSavant.git)
    cd ScriptSavant
-
 ## 🌐 See the Web Dashboard 
 https://utilitytool.streamlit.app/
 Support Us in making something Impactful.
