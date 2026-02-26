@@ -4,13 +4,13 @@ from docx.shared import Pt
 from docx.enum.text import WD_ALIGN_PARAGRAPH
 
 def apply_formal_formatting(doc):
-    """Applies Times New Roman, 12pt, 1.5 spacing, and Justified alignment."""
+    """Applies Arial, 11pt, 1.5 spacing, and Justified alignment."""
     
     # 1. Update the baseline 'Normal' style
     style = doc.styles['Normal']
     font = style.font
-    font.name = 'Times New Roman'
-    font.size = Pt(12)
+    font.name = 'Arial'
+    font.size = Pt(11)
     
     # 2. Iterate through paragraphs to apply specific rules
     for para in doc.paragraphs:
