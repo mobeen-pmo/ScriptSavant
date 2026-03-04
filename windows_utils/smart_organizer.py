@@ -1,6 +1,5 @@
 import os
 import shutil
-
 # Dictionary mapping folder names to their file extensions
 FILE_CATEGORIES = {
     '🖼️ Images': ['.jpeg', '.jpg', '.png', '.gif', '.webp', '.bmp', '.svg', '.ico'],
