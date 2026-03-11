@@ -23,10 +23,10 @@ Help us build the ultimate toolkit! Here is what we have built and what we are w
 - [x] **Image Converter:** Seamlessly switch between PNG, JPG, WEBP, and BMP formats.
 - [x] **Document Master:** Convert Word to PDF, PDF to Word, Excel to CSV, and extract PDF pages to Images.
 - [x] **Document Beautifier:** Automatically format messy `.docx` files into clean, corporate-ready structures (Times New Roman, 1.5 spacing, justified text).
+- [x] **Audio Extractor:** Instantly strip and save MP3/WAV audio tracks from local video files.
 - [ ] **Windows Quick-Fixes:** One-click registry cleaners and bloatware removers.
 - [ ] **Automation Hub:** Price drop trackers and automated meeting notes.
 
----
 
 ## 🏗️ Repository Structure
 ```text
