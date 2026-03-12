@@ -2,7 +2,6 @@ import os
 from docx import Document
 from docx.shared import Pt
 from docx.enum.text import WD_ALIGN_PARAGRAPH
-
 def apply_formal_formatting(doc):
     """Applies Arial, 11pt, 1.5 spacing, and Justified alignment."""
     
