@@ -7,7 +7,6 @@ def get_user_choice():
     print("2. 🎵 MP3 (Audio Only)")
     choice = input("\nEnter choice (1 or 2): ")
     return choice
-
 def run_downloader():
     print("\n" + "="*40)
     print("      SCRIPT SAVANT: UNIVERSAL DOWNLOADER")
@@ -29,7 +28,6 @@ def run_downloader():
         'outtmpl': f'{save_path}/%(title)s.%(ext)s',
         'noplaylist': False,
     }
-
     # Apply Format Specifics
     if choice == '2':
         ydl_opts.update({
