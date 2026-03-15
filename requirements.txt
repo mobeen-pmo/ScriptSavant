@@ -12,3 +12,4 @@ openpyxl       # Excel engine
 pdf2image      # PDF to Image
 python-docx
 moviepy
+psutil
