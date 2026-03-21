@@ -16,3 +16,4 @@ psutil
 pandas
 beautifulsoup4
 requests
+openai-whisper
