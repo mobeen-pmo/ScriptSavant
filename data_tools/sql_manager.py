@@ -2,7 +2,6 @@ import sqlite3
 import pandas as pd
 import os
 from tabulate import tabulate
-
 def clear_screen():
     os.system('cls' if os.name == 'nt' else 'clear')
 
